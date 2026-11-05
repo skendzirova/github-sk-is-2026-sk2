@@ -1,0 +1,15 @@
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.deps.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.runtimeconfig.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net10.0/program002a-soucet-cifer.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.AssemblyInfoInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.AssemblyInfo.cs
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.sourcelink.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/refint/program002a-soucet-cifer.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/program002a-soucet-cifer.genruntimeconfig.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net10.0/ref/program002a-soucet-cifer.dll

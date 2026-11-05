@@ -1,0 +1,15 @@
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.AssemblyInfoInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.AssemblyInfo.cs
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.csproj.CoreCompileInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.sourcelink.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/bin/Debug/net10.0/program000a-zakladni-program
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/bin/Debug/net10.0/program000a-zakladni-program.deps.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/bin/Debug/net10.0/program000a-zakladni-program.runtimeconfig.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/bin/Debug/net10.0/program000a-zakladni-program.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/bin/Debug/net10.0/program000a-zakladni-program.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/refint/program000a-zakladni-program.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/program000a-zakladni-program.genruntimeconfig.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program000a-zakladni-program/obj/Debug/net10.0/ref/program000a-zakladni-program.dll

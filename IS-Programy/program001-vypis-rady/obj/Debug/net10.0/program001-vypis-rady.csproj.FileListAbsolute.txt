@@ -1,0 +1,15 @@
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.AssemblyInfoInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.AssemblyInfo.cs
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.csproj.CoreCompileInputs.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.sourcelink.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net10.0/program001-vypis-rady
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net10.0/program001-vypis-rady.deps.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net10.0/program001-vypis-rady.runtimeconfig.json
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net10.0/program001-vypis-rady.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/bin/Debug/net10.0/program001-vypis-rady.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/refint/program001-vypis-rady.dll
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.pdb
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/program001-vypis-rady.genruntimeconfig.cache
+/Users/sarakendzirova/aaa/github-sk-is-2026-sk2/IS-Programy/program001-vypis-rady/obj/Debug/net10.0/ref/program001-vypis-rady.dll

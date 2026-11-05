@@ -68,6 +68,7 @@ if(first <= last)
         while(current <= last)
         {
             Console.WriteLine(current);
+            
             current = current + step;
         }
     }
