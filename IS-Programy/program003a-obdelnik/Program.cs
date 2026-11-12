@@ -46,6 +46,16 @@ while(again.ToLower() == "a" )
     // Vnějsí cyklus, který bude řídit správný počet řádků (výšku)
     for(int i = height; i >= 1; i--)
     {
+        // Střídání barev pro sudé a liché řádky
+        if (i % 2 == 0)
+        {
+            Console.ForegroundColor = ConsoleColor.DarkBlue;
+        }
+        else
+        {
+            Console.ForegroundColor = ConsoleColor.Magenta;
+        }
+
         for (int j = 1; j <= width; j++)
         {
              Console.Write("* ");
@@ -53,6 +63,9 @@ while(again.ToLower() == "a" )
         }
         Console.WriteLine();
     }
+// Vrácení barvy konzole na výchozí hodnotu
+    Console.ResetColor();
+
 
     // Konec jádra konkrétního algoritmu
 
